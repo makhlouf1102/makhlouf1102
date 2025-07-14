@@ -12,7 +12,7 @@ Mak is someone full of ambitions and thinks he lives in a video game witch me he
 * 🚀  I'm currently working on [lets-go, a sort of leetcode with Go lang](http://github.com/makhlouf1102/lets-go)
 * 🧠  I'm learning Go Language
 * 🤝  I'm open to collaborating on Nothing, too busy with my student club
-* ⚡  Come to Lan ETS 2025 it's gonna be crazyyyyyyyyy
+* ⚡  Come to Lan ETS 2026 it's gonna be crazyyyyyyyyy
 
 ### Socials
 
