@@ -11,7 +11,7 @@ Mak is someone full of ambitions and thinks he lives in a video game witch me he
 * ✉️  You can contact me at [makhlouf.hennine@ens.etsmtl.ca](mailto:makhlouf.hennine@ens.etsmtl.ca)
 * 🚀  I'm currently working on [lets-go, a sort of leetcode with Go lang](http://github.com/makhlouf1102/lets-go)
 * 🧠  I'm learning Go Language
-* 🤝  I'm open to collaborating on Nothing, too busy with my student club
+* 🤝  I'm open to collaborating on Nothing, Need a JOB ASAP
 * ⚡  Come to Lan ETS 2026 it's gonna be crazyyyyyyyyy
 
 ### Socials
